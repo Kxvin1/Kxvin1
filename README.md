@@ -1,10 +1,7 @@
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxvin1&hide=stars,contribs&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxvin1&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Projects
+#### Projects
 <a href="https://github.com/Kxvin1/wallpapr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kxvin1&repo=wallpapr&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
@@ -29,6 +26,12 @@
 
 
 <!--
+
+add again later maybe
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxvin1&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+
 **Kxvin1/Kxvin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
