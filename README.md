@@ -5,9 +5,6 @@
 <a href="https://github.com/Kxvin1/wallpapr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kxvin1&repo=wallpapr&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
-<a href="https://github.com/Kxvin1/WatchTime">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kxvin1&repo=WatchTime&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
 
 <!--
 **Kxvin1/Kxvin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
