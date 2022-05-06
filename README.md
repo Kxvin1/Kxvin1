@@ -5,10 +5,10 @@
 
 ## Projects
 <p align="center"> 
-<a href="https://github.com/Kxvin1/wallpapr">
+<a href="https://github.com/Kxvin1/wallpapr" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kxvin1&repo=wallpapr&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
 </a>
-  <a href="https://github.com/Kxvin1/WatchTime">
+  <a href="https://github.com/Kxvin1/WatchTime" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kxvin1&repo=WatchTime&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
 </a>
   </p>
@@ -30,6 +30,15 @@
 
 ## Future Skills
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
+## Contact Me
+<a href="mailto:kevinzy17@gmail.com" target="_blank">
+   <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/kevin-b-643664221/" target="_blank">
+   <img align="left"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
 <!--
