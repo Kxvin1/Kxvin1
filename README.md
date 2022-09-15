@@ -5,6 +5,9 @@
 
 ## Projects
 <p align="center"> 
+    <a href="https://github.com/Kxvin1/ct_log_parser_challenge" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kxvin1&repo=ct_log_parser_challenge&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
+</a>
   <a href="https://github.com/Kxvin1/filter" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kxvin1&repo=filter&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
 </a>
