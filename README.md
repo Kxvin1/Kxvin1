@@ -5,8 +5,8 @@
 
 ## Projects
 <p align="center"> 
-    <a href="https://github.com/Kxvin1/log_parser" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kxvin1&repo=log_parser&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
+    <a href="https://github.com/Kxvin1/jarvis" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kxvin1&repo=jarvis&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
 </a>
   <a href="https://github.com/Kxvin1/filter" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kxvin1&repo=filter&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
