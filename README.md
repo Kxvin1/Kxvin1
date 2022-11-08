@@ -5,7 +5,10 @@
 
 ## Projects
 <p align="center"> 
-    <a href="https://github.com/Kxvin1/jarvis" target="_blank">
+ <a href="https://github.com/Kxvin1/netflix_ts-next" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kxvin1&repo=netflix_ts-next&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
+</a>
+ <a href="https://github.com/Kxvin1/jarvis" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kxvin1&repo=jarvis&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
 </a>
  <a href="https://github.com/Kxvin1/vacay-n-stays" target="_blank">
@@ -13,9 +16,6 @@
 </a>
 <a href="https://github.com/Kxvin1/wallpapr" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kxvin1&repo=wallpapr&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
-</a>
-  <a href="https://github.com/Kxvin1/WatchTime" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kxvin1&repo=WatchTime&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
 </a>
   </p>
 
