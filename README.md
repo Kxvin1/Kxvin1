@@ -5,7 +5,10 @@
 
 ## Projects
 <p align="center"> 
-   <a href="https://github.com/Kxvin1/vacay-n-stays" target="_blank">
+<a href="https://github.com/Kxvin1/google-nextjs" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kxvin1&repo=google-nextjs&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
+</a>
+<a href="https://github.com/Kxvin1/vacay-n-stays" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kxvin1&repo=vacay-n-stays&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
 </a>
   <a href="https://github.com/Kxvin1/amz-product-scraper" target="_blank">
