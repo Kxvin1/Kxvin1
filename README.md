@@ -5,7 +5,7 @@
 
 ## Project Portfolio (contains all projects)
 <p align="center"> 
-<a href="https://github.com/Kxvin1/PORTFOLIO-OF-PROJECTS" target="_blank">
+<a href="https://github.com/Kxvin1/PORTFOLIO-OF-PROJECTS/blob/main/README.md" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kxvin1&repo=PORTFOLIO-OF-PROJECTS&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
 </a>
 </p>
