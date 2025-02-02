@@ -3,6 +3,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kxvin1&hide=stars,contribs&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117">
 </p>
 
+<!-- 
 ## Project Portfolio (contains all projects)
 <p align="center"> 
 <a href="https://github.com/Kxvin1/PORTFOLIO-OF-PROJECTS/blob/main/README.md" target="_blank">
@@ -33,6 +34,8 @@
 </a>
   </p>
 
+-->
+
 ## Technical Skills
 
 #### Programming Languages
@@ -49,16 +52,12 @@
 
 
 ## Contact Me
-<a href="mailto:kevinzy17@gmail.com" target="_blank">
+<a href="mailto:kevin.rl.bartolome@gmail.com" target="_blank">
    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/kevin-bartolome/" target="_blank">
    <img align="left"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://angel.co/u/kevin-bartolome" target="_blank">
-   <img align="left"src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
 </a>
 
 <!--
