@@ -2,8 +2,9 @@
 
 **Software Engineer | Automation Enthusiast | Web App Builder**
 
-I'm passionate about creating automation tools and utility-focused web applications that enhance productivity and efficiency.
-
+## 📫 Contact Me Here
+💼 [Portfolio](https://portfolio-self-three-61.vercel.app/) | 💻 [GitHub](https://github.com/kxvin1) | 🔗 [LinkedIn](https://www.linkedin.com/in/kevin-bartolome/) | 📧 kevin.rl.bartolome@gmail.com
+  
 ---
 
 ## 🧠 About Me
@@ -11,15 +12,20 @@ I'm passionate about creating automation tools and utility-focused web applicati
 - 🔭 Currently working at **Zeta Global** as a Software Engineer, where I architect and develop full-stack internal tools to automate email marketing workflows.
 - 🧰 Proficient in **JavaScript**, **Python**, **React**, **TypeScript**, and modern web technologies.
 - 🎓 Former Instructional Assistant at **App Academy**, mentoring over 150 students in web development.
-
+  
 ---
 
-## 📫 Let's Connect
+## 🚀 Projects (live links)
 
-- 💼 [Portfolio](https://portfolio-self-three-61.vercel.app/)
-- 💻 [GitHub](https://github.com/kxvin1)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kevin-bartolome/)
-- 📧 Email: kevin.rl.bartolome@gmail.com
+### [Life Dashboard](https://life-dashboard-eta.vercel.app/)
+
+An AI-powered platform for productivity, financial planning, and health management, helping users streamline their personal lives.
+- **Tech:** Next.js, React, TypeScript, Python, FastAPI, PostgreSQL, OpenAI, Tailwind CSS
+
+### [12 Week Year Tracker](https://12-week-year-nine.vercel.app/)
+
+A gamified habit and performance tracker that assists users in breaking down goals into manageable 12-week cycles.
+- **Tech:** Next.js, React, TypeScript, Tailwind CSS, Vercel
 
 ---
 
@@ -58,22 +64,4 @@ I'm passionate about creating automation tools and utility-focused web applicati
 
 ---
 
-## 🚀 Projects (live links)
-
-### [Life Dashboard](https://life-dashboard-eta.vercel.app/)
-
-An AI-powered platform for productivity, financial planning, and health management, helping users streamline their personal lives.
-
-- **Tech:** Next.js, React, TypeScript, Python, FastAPI, PostgreSQL, OpenAI, Tailwind CSS
-
-### [12 Week Year Tracker](https://12-week-year-nine.vercel.app/)
-
-A gamified habit and performance tracker that assists users in breaking down goals into manageable 12-week cycles.
-
-- **Tech:** Next.js, React, TypeScript, Tailwind CSS, Vercel
-
----
-
 *“Building tools that empower others lives better.”*
-
-
