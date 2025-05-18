@@ -49,7 +49,7 @@ I'm passionate about creating automation tools and utility-focused web applicati
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects (live links)
 
 ### [Life Dashboard](https://life-dashboard-eta.vercel.app/)
 
