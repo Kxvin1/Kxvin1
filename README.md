@@ -25,7 +25,7 @@ I'm passionate about creating automation tools and utility-focused web applicati
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,postgres,react,nextjs,fastapi,express,nodejs,aws,gcp,tailwind,vercel,atom,linux,ubuntu,bash,docker,git,github,html&perline=11)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,postgres,react,nextjs,fastapi,express,nodejs,aws,gcp,tailwind,vercel,atom,linux,ubuntu,bash,docker,git,github,html&perline=11)
 
 **Languages:**
 
