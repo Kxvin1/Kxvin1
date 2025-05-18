@@ -14,6 +14,15 @@ I'm passionate about creating automation tools and utility-focused web applicati
 
 ---
 
+## 📫 Let's Connect
+
+- 💼 [Portfolio](https://portfolio-self-three-61.vercel.app/)
+- 💻 [GitHub](https://github.com/kxvin1)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kevin-bartolome/)
+- 📧 Email: kevin.rl.bartolome@gmail.com
+
+---
+
 ## 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,postgres,react,nextjs,fastapi,express,nodejs,aws,gcp,tailwind,vercel,atom,linux,ubuntu,bash,docker,git,github,html&perline=11)](https://skillicons.dev)
@@ -62,16 +71,6 @@ An AI-powered platform for productivity, financial planning, and health manageme
 A gamified habit and performance tracker that assists users in breaking down goals into manageable 12-week cycles.
 
 - **Tech:** Next.js, React, TypeScript, Tailwind CSS, Vercel
-
----
-
-
-## 📫 Let's Connect
-
-- 💼 [Portfolio](https://portfolio-self-three-61.vercel.app/)
-- 💻 [GitHub](https://github.com/kxvin1)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kevin-bartolome/)
-- 📧 Email: kevin.rl.bartolome@gmail.com
 
 ---
 
