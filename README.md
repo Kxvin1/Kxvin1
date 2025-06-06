@@ -15,17 +15,17 @@
   
 ---
 
-## 🚀 Projects (live links)
+## 🚀 Projects
 
-### [Life Dashboard](https://life-dashboard-eta.vercel.app/)
+### [Life Dashboard](https://life-dashboard-eta.vercel.app/) -- Live Link (Vercel)
 
 An AI-powered platform for productivity, financial planning, and health management, helping users streamline their personal lives.
 - **Tech:** Next.js, React, TypeScript, Python, FastAPI, PostgreSQL, OpenAI, Tailwind CSS
 
-### [12 Week Year Tracker](https://12-week-year-nine.vercel.app/)
+### [Pomodoro CLI - Terminal Based Productivity Program](https://github.com/Kxvin1/pomodoro-cli) -- GitHub Repo with Previews and Documentation
 
-A gamified habit and performance tracker that assists users in breaking down goals into manageable 12-week cycles.
-- **Tech:** Next.js, React, TypeScript, Tailwind CSS, Vercel
+A colorful, feature-rich command-line Pomodoro timer with text-to-speech announcements and auto-cycling capabilities. Perfect for productivity enthusiasts who use the terminal.
+- **Tech:** Bash, Linux, Shell Scripting, PowerShell
 
 ---
 
