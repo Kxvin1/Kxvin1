@@ -22,6 +22,11 @@
 An AI-powered platform for productivity, financial planning, and health management, helping users streamline their personal lives.
 - **Tech:** Next.js, React, TypeScript, Python, FastAPI, PostgreSQL, OpenAI, Tailwind CSS
 
+### [Hacker News – QA Automation Framework & Testing Suite](https://github.com/Kxvin1/playwright-testing-automation) -- GitHub Repo with Previews and Documentation
+
+A production-grade, multi-layered testing framework using Playwright to validate Hacker News sorting with statistical accuracy, cross-browser automation, performance monitoring, API integrity checks, and security auditing—complete with interactive dashboards and professional-grade reporting.
+- **Tech:** Playwright, JavaScript, Node.js, Axios, Chromium, Page Object Model
+
 ### [Pomodoro CLI - Terminal Based Productivity Program](https://github.com/Kxvin1/pomodoro-cli) -- GitHub Repo with Previews and Documentation
 
 A colorful, feature-rich command-line Pomodoro timer with text-to-speech announcements and auto-cycling capabilities. Perfect for productivity enthusiasts who use the terminal.
