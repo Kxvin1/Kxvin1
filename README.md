@@ -17,7 +17,7 @@
 
 ## 🚀 Projects
 
-### [Life Dashboard](https://life-dashboard-eta.vercel.app/) -- Live Link (Vercel)
+### [Life Dashboard](https://life-dashboard-eta.vercel.app/) -- Live Link (Vercel) // [GitHub Link](https://github.com/Kxvin1/life-dashboard)
 
 An AI-powered platform for productivity, financial planning, and health management, helping users streamline their personal lives.
 - **Tech:** Next.js, React, TypeScript, Python, FastAPI, PostgreSQL, OpenAI, Tailwind CSS
